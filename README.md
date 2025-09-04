@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ Course Pandit Bot ✨
 </h1>
 
 <p align="center">
